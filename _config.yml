@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: SmartGuppy Blog
 locale: en_US
-description: Describe your website here.
+description: Thoughts, stories and ideas.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: https://blog.smartguppy.com
 
 # Jekyll configuration
 
@@ -15,7 +15,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -36,7 +36,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: SmartGuppy
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
