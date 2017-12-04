@@ -1,10 +1,29 @@
+---
+published: false
+layout: post
+excerpt: Why should I be unschooled?
+categories: articles
+tags:
+  - sample-post
+  - readability
+  - test
+author: Unbermensch
+comments: true
+share: true
+modified: 2016-06-01T18:18:57.000Z
+image:
+  path: >-
+    https://raw.githubusercontent.com/mmistakes/so-simple-theme/master/images/so-simple-sample-image-1.jpg
+  feature: so-simple-sample-image-7.jpg
+  credit: WeGraphics
+  creditlink: 'http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/'
+---
 ## Why should I be unschooled.
 
 
 > _Education is what others do to you while learning is what you do to yourself._
 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/)
 
 As education evolves along with our ever changing and dynamic economy, learning any specific subject has become less important than learning how to learn. With the exponential growth of new technologies, we may not know what knowledge will be most needed in the future and thus to inculcate the love for learning and the ability to learn well is vital. Some people believe that schools, or classrooms ironically, are not the best way to achieve this mastery of learning how to learn and learning well and have sought to promote the idea of ‘unschooling’.
 
@@ -17,5 +36,3 @@ Unschoolers decry the school culture of children subjected to being constantly t
 Critics on the other hand, state that a child might not encounter people of other cultures, worldviews and socioeconomic groups if they are not enrolled in a school. Of course, a school is not necessarily a place that is guaranteed to provide such a range of experiences, either, as can be seen in segregated schools based on race or religion. As for the argument that unschooling inhibits social development, where unschooled children will lack the social skills, structure, and motivation of their schooled peers, unschoolers say exactly the opposite is true, that self-directed education in a natural environment better equips a child to handle the ‘real world’.
 
 Even as the educational choices for students in schools continue to increase, the process of learning freely, without formalized classrooms or school work must not be forgotten as well. There should be as much freedom as possible for a child to learn what he or she wants, to break the shackles of a prescribed curriculum and to fulfil his or her unique potential and talent. As Joi Ito, the head of the Massachusetts Institute of Technology Media Labs, summaries it beautifully, education is what others do to you while learning is what you do to yourself.
-
-
