@@ -1,13 +1,18 @@
 ---
 layout: post
-title: "Why should I be unschooled?"
-excerpt: "Why should I be unschooled?"
+title: Why should I be unschooled?
+excerpt: >-
+  As education evolves along with our ever changing and dynamic economy,
+  learning any specific subject has become less important than learning how to
+  learn.
 categories: articles
-tags: [sample-post, link-post]
+tags:
+  - education
+  - schools
+  - life
+published: true
+author: shen
 ---
-## Why should I be unschooled.
-
-
 > _Education is what others do to you while learning is what you do to yourself._
 
 
