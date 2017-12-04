@@ -10,6 +10,7 @@ tags:
   - sample-post
   - link-post
 published: true
+author: shen
 ---
 > _Education is what others do to you while learning is what you do to yourself._
 
