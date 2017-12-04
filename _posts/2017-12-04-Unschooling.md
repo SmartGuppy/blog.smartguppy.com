@@ -1,22 +1,15 @@
 ---
-published: false
 layout: post
+title: Why should I be unschooled?
 excerpt: Why should I be unschooled?
 categories: articles
 tags:
   - sample-post
   - readability
   - test
-author: Unbermensch
+author: shen
 comments: true
 share: true
-modified: {}
-image:
-  path: >-
-    https://raw.githubusercontent.com/mmistakes/so-simple-theme/master/images/so-simple-sample-image-1.jpg
-  feature: so-simple-sample-image-7.jpg
-  credit: WeGraphics
-  creditlink: 'http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/'
 ---
 ## Why should I be unschooled.
 
