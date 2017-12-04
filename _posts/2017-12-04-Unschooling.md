@@ -5,7 +5,6 @@ excerpt: >-
   As education evolves along with our ever changing and dynamic economy,
   learning any specific subject has become less important than learning how to
   learn.
-categories: articles
 tags:
   - education
   - schools
