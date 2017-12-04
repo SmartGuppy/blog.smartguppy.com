@@ -9,6 +9,7 @@ categories: articles
 tags:
   - education
   - schools
+  - life
 published: true
 author: shen
 ---
