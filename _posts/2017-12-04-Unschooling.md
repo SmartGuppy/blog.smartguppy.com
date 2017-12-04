@@ -7,8 +7,8 @@ excerpt: >-
   learn.
 categories: articles
 tags:
-  - sample-post
-  - link-post
+  - education
+  - schools
 published: true
 author: shen
 ---
