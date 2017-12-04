@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why should I be unschooled?
+title: Why should I be unschooled
 excerpt: >-
   As education evolves along with our ever changing and dynamic economy,
   learning any specific subject has become less important than learning how to
