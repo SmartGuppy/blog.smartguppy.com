@@ -1,15 +1,9 @@
 ---
 layout: post
-title: Why should I be unschooled?
-excerpt: Why should I be unschooled?
+title: "Why should I be unschooled?"
+excerpt: "Why should I be unschooled?"
 categories: articles
-tags:
-  - sample-post
-  - readability
-  - test
-author: shen
-comments: true
-share: true
+tags: [sample-post, link-post]
 ---
 ## Why should I be unschooled.
 
