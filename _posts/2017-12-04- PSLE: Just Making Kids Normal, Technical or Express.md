@@ -1,7 +1,6 @@
 ---
 published: false
 layout: post
-excerpt: ''
 tags:
   - education
   - schools
