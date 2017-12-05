@@ -6,8 +6,11 @@ tags:
   - schools
   - life
 author: S
-excerpt: When just being normal is bad
-title: 'PSLE:Just Making Kids Normal, Technical or Express'
+excerpt: >-
+  How does one ever define a 12 year old child and put him or her into certain
+  categories when we realise every child has untapped potential still waiting to
+  be unleashed?
+title: 'PSLE:When just being normal is bad'
 ---
 
 
