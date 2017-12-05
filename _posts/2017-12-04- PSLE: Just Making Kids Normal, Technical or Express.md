@@ -12,7 +12,7 @@ title: 'PSLE:Just Making Kids Normal, Technical or Express'
 
 
 
-How does one ever define a 12 year old child and put him or her into certain categories when we realise every child has truly great untapped potential still waiting to unbounded and unleashed? Well, the PSLE just did it again last month. The Primary School Leaving Examinations where young children are streamed/determined/labelled/defined into an identity that plays a major influence on their self worth and belief. Here, to most parents: being 'normal' is never a good thing (less said about being technical) and being labelled as 'express' is the bare minimum. Depending on which secondary school one chooses, a child can either be in the normal or express stream, such is the arbitrariness of the T-score. 
+How does one ever define a 12 year old child and put him or her into certain categories when we realise every child has untapped potential still waiting to be unleashed? Well, the PSLE just did it again last month. The PSLE or Primary School Leaving Examinations are where young children are streamed/determined/labelled/defined into an identity that plays a major influence on their self worth and belief. Here, to most parents: being 'normal' is never a good thing (less said about being technical) and being labelled as 'express' is the bare minimum. Depending on which secondary school one chooses, a child can either be in the normal or express stream, such is the arbitrariness of the T-score. 
 
 ## A self-fulfilling prophecy?
 
