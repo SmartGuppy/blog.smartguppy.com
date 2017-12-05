@@ -26,7 +26,7 @@ NA and NT students are facing not just stigma(which is a big problem in itself) 
 
 ## Can the prophecy be stopped?
 
-> There shouldn't be an implicit assumption from schools that most Normal stream students will never qualify for junior colleges
+> There shouldn't be an implicit assumption from schools that most Normal stream students will never qualify for junior colleges...
 
 Schools can play an much more active role in helping 'Normal' academic and technical students reach their full potential and not just assume their abilities are 'limited' and opt for the 'easy' way out. Instead of encouraging most Normal students to 'graduate' if they cannot qualify for the PFP, why not actively encourage those with still decent grades to continue and have a fair shot like the majority? Moreover, they have an extra year of practice to prepare for their O levels. Isn't that the main objective of the Normal Stream? After that of which they should deserve the equal and fair chance of going to a polytechnic or even a junior college just like any other express student, rather than casually assuming that they are even inferior to their younger secondary 4 express counterparts. I will even go further to state that there shouldn't be an implicit assumption from schools that most Normal stream students will never qualify for junior colleges, just as how an express student is seen as having every chance to choose between a junior college and a polytechnic. 
 
