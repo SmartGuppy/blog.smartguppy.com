@@ -5,7 +5,7 @@ tags:
   - education
   - schools
   - life
-author: shen
+author: S
 excerpt: When just being normal is bad and being technical is horrible.
 title: 'PSLE:Just Making Kids Normal, Technical or Express'
 ---
