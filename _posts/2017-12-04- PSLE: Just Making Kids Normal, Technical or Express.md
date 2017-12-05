@@ -24,7 +24,7 @@ In secondary schools, labels take on an even greater meaning especially to adole
 NA and NT students are facing not just stigma(which is a big problem in itself) but both conscious and unconscious discrimination from schools as well. For those who have missed the final chance to be promoted to the 'express' stream in lower secondary, they are adjudged to have less potential and discriminated in a subtle number of ways which is pretty obvious upon close analysis. If being 'normal' means taking just one more year longer to attempt the 'Ordinary' Levels, that why do the majority of NA students not continue to secondary 5? Shouldn't that be the norm? Ignoring the pun, notice how the two words 'normal' and 'ordinary' are so similar in meaning but yet a majority of NA students do not attempt the O levels. If they do not qualify for the Poly Foundation Programme(PFP), which itself requires above average results in the N levels, are they then deemed to be 'unfit' to continue into secondary 5 as well? Are average N levels results unworthy for a chance to take their O levels like the majority of their peers will do. Does that mean they have no potential? Or that their potential will not be stretched and fully realised? 
 
 
-## Can schools(or WE) solve this problem and end the prophecy?
+## Can the prophecy be stopped?
 
 > There shouldn't be an implicit assumption from schools that most Normal stream students will never qualify for junior colleges
 
