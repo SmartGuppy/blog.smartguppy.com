@@ -1,13 +1,13 @@
 {
-  "name": "so-simple-theme",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mmistakes.github.io/so-simple-theme/",
+  "name": "blog.smartguppy.com",
+  "author": "Eric Lu <ericluwj@hotmail.com>",
+  "homepage": "https://blog.smartguppy.com/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/so-simple-theme.git"
+    "url": "git://github.com/smartguppy/blog.smartguppy.com.git"
   },
   "bugs": {
-    "url": "https://github.com/mmistakes/so-simple-theme/issues"
+    "url": "https://github.com/smartguppy/blog.smartguppy.com/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
