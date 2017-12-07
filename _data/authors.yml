@@ -23,16 +23,18 @@ shen:
   name: Shen Loke
   email: shen@smartguppy.com
   bio: ""
+  avatar: bio-photo.jpg
 
 yvonneg:
   name: Yvonne Goh
   email: yvonnegjy@smartguppy.com
-  bio: " "
+  bio: ""
+  avatar: bio-photo.jpg
 
 smartguppy:
   name: Mr Guppy
   email: support@smartguppy.com
-  bio: "I ordered what?"
+  bio: "I advocate open education!"
   avatar: bio-photo.jpg
   twitter: 
   google:
