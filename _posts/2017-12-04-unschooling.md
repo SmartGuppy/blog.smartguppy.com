@@ -11,7 +11,6 @@ tags:
   - life
 published: true
 author: shen
-share: true
 ---
 > _Education is what others do to you while learning is what you do to yourself._
 
