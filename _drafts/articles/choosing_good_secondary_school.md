@@ -16,7 +16,7 @@ share: true
 ---
 ## The most important yet least known factor for choosing a good secondary school.
 
-PSLE results are out. If your child has done well, kudos to him or her, there will be many options for your child to choose from. If your child hasn't, then there will be a more limited choice as the so called 'better' schools will tend to have higher PSLE cut-off points. So for those who didn't do well, are all schools with lower cut-off points really bad then? And amongst those schools, how do you choose the best one then? The number 1 factor that almost all parents assume and use to judge secondary schools are their PSLE cut-off points. This can be flawed and it might even have a negative impact on your children's secondary school's future. So what is the best way to choose then? Read on! But first, let's debunk a big assumption.
+PSLE results are out. If your child has done well, kudos to him or her, there will be many options for your child to choose from. If your child hasn't, then there will be a more limited choice as the so called 'better' schools will tend to have higher PSLE cut-off points. So for those who didn't do well, are all schools with lower cut-off points really bad then? And amongst those schools, how do you choose the best one then? The number 1 factor that almost all parents assume and use to judge secondary schools is their PSLE cut-off points. This can be flawed and it might even have a negative impact on your children's secondary school's future. So what is the best way to choose then? Read on! But first, let's debunk a big assumption.
 
 ### The Worst of the Best? Or the Best of the Worst?
 
