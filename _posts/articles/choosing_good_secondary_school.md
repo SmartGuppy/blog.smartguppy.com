@@ -15,6 +15,7 @@ excerpt: >-
   tend to have higher PSLE cut-off points. So for those who didn't do well, are
   all schools with lower cut-off points really bad then?
 share: true
+title: The most important yet least known factor for choosing a good secondary school
 ---
 ## The most important yet least known factor for choosing a good secondary school.
 
