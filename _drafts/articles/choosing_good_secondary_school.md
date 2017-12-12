@@ -1,5 +1,18 @@
 ---
 published: false
+layout: post
+tags:
+  - education
+  - schools
+  - life
+  - PSLE
+  - secondary schools
+author: smartguppy
+excerpt: >-
+  How does one ever define a 12 year old child and put him or her into certain
+  categories when we realise every child still has so much untapped potential
+  still waiting to be unleashed?
+share: true
 ---
 ## The most important yet least known factor for choosing a good secondary school.
 
