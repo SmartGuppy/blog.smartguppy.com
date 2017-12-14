@@ -1,5 +1,20 @@
 ---
 published: false
+layout: post
+tags:
+  - education
+  - schools
+  - life
+  - PSLE
+  - secondary
+author: smartguppy
+excerpt: >-
+  PSLE results are out. If your child has done well, kudos to him or her, there
+  will be many options for your child to choose from. If your child hasn't, then
+  there will be a more limited choice as the so called 'better' schools will
+  tend to have higher PSLE cut-off points. So for those who didn't do well, are
+  all schools with lower cut-off points really bad then?
+share: true
 ---
 ## The most important yet least known factor for choosing a good secondary school.
 
