@@ -36,7 +36,9 @@ Most parents assume the higher the cut-off point, the better the secondary schoo
 A principal wield tremendous power in secondary schools, more than most parents actually know. They play a huge part in defining the school culture. But what actually is 'school culture' you may ask. It sounds very abstract and vague and sometimes not even definable. How does one know whether a school's culture is good or not? Well, a school culture may be hard to properly define but thankfully with a bit of effort and research, it can be easy to know.
 
 
+
 >  If you think that way, that all teachers are good, you must be living in a moral dreamland.
+
 
 
 Firstly, think of a school culture as something like a company's corporate culture. A company's culture is very important as you do not want to work in a toxic environment where your boss is horrible and company politics are the norm. Same goes for schools. At this point in time, you may be thinking how can you compare schools to companies, teachers to workers, how dare you, having the audacity to state that school culture is like the corporate culture of companies! If you think that way, that all teachers are good, you must be living in a moral dreamland! Teachers are humans too. There are both good and bad people, same goes for teachers and the same goes for principals. As much as we hate to admit it.
@@ -44,7 +46,9 @@ Firstly, think of a school culture as something like a company's corporate cultu
 A good school culture will attract better teachers who want to work in a school where they are being better treated. This in turn makes them even better teachers as they can flourish in a positive working environment where they are inspired by their respective HODs, vice-principals and ultimately the principal. If good leadership is found wanting, politicking will increase. Teachers will be more concerned about how to make themselves look good in front of their superiors rather than devoting their full energies to teaching and improving their students. Sadly for now, a teacher will not just be promoted based on his or her students' improvement but also on his or her superiors' subjective impression.
 
 
+
 > The leadership qualities of the principal of a school can never be overstated.
+
 
 
 Thus, a principal is like a boss of company. He or she has a big say in determining the vice-principals, the Heads of Departments(HODs) etc, and thus the culture and identity of a school. Teachers - just like students - also hope to choose and teach in a good school with a good work culture where they can happily teach without playing politics, devoting all their time and energies into fulfilling their lives' passion: which is to improve their students. Therefore, the leadership qualities of the principal of a school can never be overstated. Seek the feedback and opinions of those working in the school if you can. You may be surprised that the so-called 'elite' or branded schools may not have best work culture.
