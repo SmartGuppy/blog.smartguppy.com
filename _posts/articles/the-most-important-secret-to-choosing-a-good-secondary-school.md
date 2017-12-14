@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## The most important yet least known factor for choosing a good secondary school.
 
