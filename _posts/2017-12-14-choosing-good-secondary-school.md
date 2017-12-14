@@ -29,7 +29,7 @@ Sending your child to the school with the highest cut-off point that he or she c
 
 ### Good principal = Good school culture
 
-> A principal wield tremendous power in secondary schools, more than most parents actually know...
+> A principal wields tremendous power in secondary schools, more than most parents actually know.
 
 Most parents assume the higher the cut-off point, the better the secondary school and will use it as a main guide of judging the quality of the school. However, this is not the most important factor. The most important factor - and I will advise their parents to do their utmost research on - is who is actually the head of the school, namely the principal. Why is the principal the most important factor?
 
