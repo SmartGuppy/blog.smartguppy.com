@@ -16,6 +16,7 @@ excerpt: >-
   all schools with lower cut-off points really bad then?
 share: true
 title: The most important yet least known factor for choosing a good secondary school
+Title: The most important secret to choose a good secondary
 ---
 ## The most important yet least known factor for choosing a good secondary school.
 
