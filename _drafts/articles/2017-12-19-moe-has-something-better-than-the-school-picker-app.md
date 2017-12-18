@@ -1,5 +1,15 @@
 ---
 published: false
+layout: post
+tags:
+  - reviews
+  - schools
+  - School Picker app
+author: smartguppy
+excerpt: >-
+  The School Picker app was designed to help parents and students find suitable
+  schools.  However, the app currently has 2 major limitations.
+share: true
 ---
 ## Review: MOE has something better than the School Picker app
 In an effort to make choosing schools easier for parents and students, the [School Picker app](https://schoolpicker.sg/intro) was created by developers from data.gov.sg in May this year. I explored the School Picker app to determine how useful the app would be in choosing a suitable school for your child/yourself.
