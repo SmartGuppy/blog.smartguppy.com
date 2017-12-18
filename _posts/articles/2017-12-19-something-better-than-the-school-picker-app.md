@@ -13,7 +13,7 @@ share: true
 ---
 ![sch-picker-jc-search-results-ss.JPG]({{site.baseurl}}/_posts/articles/sch-picker-jc-search-results-ss.JPG)
 
-In an effort to make choosing schools easier for parents and students, the [School Picker app](https://schoolpicker.sg/intro) was created by developers from data.gov.sg in May this year. I explored the School Picker app to determine how useful the app would be in choosing a suitable school for your child/yourself.
+In an effort to make choosing schools easier for parents and students, the [School Picker app](https://schoolpicker.sg/) was created by developers from data.gov.sg in May this year. I explored the School Picker app to determine how useful the app would be in choosing a suitable school for your child/yourself.
 
 ### Useful features of the app
 The app allows you to search for a school based on the following information:
