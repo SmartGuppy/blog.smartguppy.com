@@ -46,6 +46,6 @@ While the app shows you the latest cut-off points for each school, it **does not
 3. [ITE's website](https://www.ite.edu.sg/wps/portal/fts.ft.courses/) provides useful information (e.g. entry requirements, career prospects) on the courses offered by ITE.
 
 ### Verdict
-The School Picker app provides comprehensive information on primary schools, secondary schools and junior colleges. However, it has several limitations as of now, such as the absence of a search function based on aggregate scores and information on other types of educational institutions. If you are searching for a suitable primary school/secondary school/junior college right now, MOE's SIS will probably be more useful for you. 
+The School Picker app provides comprehensive information on primary schools, secondary schools and junior colleges. However, it has several limitations as of now, such as the absence of a search filter based on aggregate scores, and information on other types of educational institutions. If you are searching for a suitable primary school/secondary school/junior college right now, MOE's SIS will probably be more useful for you. 
 
 **_Do you know of other useful tools or resources to pick a suitable school? Let us know in the comments section below!_**
