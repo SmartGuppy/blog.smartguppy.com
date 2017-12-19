@@ -35,7 +35,7 @@ The app also provides the following information for each school:
 ### Limitations of the app
 The app **does not have information on other educational institutions** like polytechnics and the Institute of Technical Education (ITE). However, this could be because these educational instituitions are not under the Ministry of Education (MOE) and at the same time, offer a vast number of courses. 
 
-While the app shows you the latest cut-off points for each school, it **does not allow you to search for schools based on schools' cut-off points**. This feature may have been intentionally omitted because MOE has been de-emphasizing students' examination results in recent years. However, I think this is a feature that many people would find useful, especially when the choices of schools available to students are limited by their examination results. 
+While the app shows you the latest cut-off points for each school, it **does not allow you to search for schools based on schools' cut-off points**. This feature may have been intentionally omitted because MOE has been de-emphasizing students' examination results in recent years. However, I think this is a feature that many people would find useful, especially since the choices of schools available to students are limited by their examination results. 
 
 ### Other useful online tools/resources to pick a school
 1. [MOE's School Information Service (SIS)](http://sis.moe.gov.sg/) actually allows you to search for secondary schools and junior colleges **based on a range of PSLE aggregate scores and L1R4/L1R5 aggregate scores**. In fact, you can filter your search results using the same filters that the School Picker app currently has (see screenshot below)!
