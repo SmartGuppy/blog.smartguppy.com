@@ -11,7 +11,7 @@ excerpt: >-
   schools. However, the app currently has 2 major limitations.
 share: true
 ---
-![sch-picker-jc-search-results-ss.JPG]({{site.baseurl}}/_posts/articles/sch-picker-jc-search-results-ss.JPG)
+![sch-picker-jc-search-results-ss.JPG]({{site.baseurl}}/_posts/sch-picker-jc-search-results-ss.JPG)
 
 In an effort to make choosing schools easier for parents and students, the [School Picker app](https://schoolpicker.sg/) was created by developers from data.gov.sg in May this year. I explored the School Picker app to determine how useful the app would be in choosing a suitable school for your child/yourself.
 
@@ -39,7 +39,7 @@ While the app shows you the latest cut-off points for each school, it **does not
 
 ### Other useful online tools/resources to pick a school
 1. [MOE's School Information Service (SIS)](http://sis.moe.gov.sg/) actually allows you to search for secondary schools and junior colleges **based on a range of PSLE aggregate scores and L1R4/L1R5 aggregate scores**. In fact, you can filter your search results using the same filters that the School Picker app currently has (see screenshot below)!
-![sis-moe-portal-ss.PNG]({{site.baseurl}}/_posts/articles/sis-moe-portal-ss.PNG)
+![sis-moe-portal-ss.PNG]({{site.baseurl}}/_posts/sis-moe-portal-ss.PNG)
 
 2. The [Joint Portal of the Polytechnics in Singapore](http://www.polytechnic.edu.sg/introduction/available-courses) allows you to view a list of all polytechnic courses available and search for courses based on JAE course clusters (e.g. applied sciences, humanities). The latest cut-off points for each course are also provided. You can also view more information (e.g. entry requirements, career prospects) on each course by clicking on the name of the course.
 
