@@ -1,5 +1,16 @@
 ---
 published: false
+layout: post
+tags:
+  - Character
+  - Studies
+  - Life
+author: GUest
+excerpt: >-
+  It is the journey rather than the destination and sadly, it is a path
+  guaranteed fraught with much hardship, sacrifices and failures that many
+  Singaporeans, confined to safe and comfortable lifestyles, choose not to take.
+share: true
 ---
 ## You need to be tough to succeed!
 
@@ -23,4 +34,3 @@ Yes training is hard. Studying is hard. Training and studying is even harder. Tr
 For sure you will fail sometimes, if not many times. Nobody said it was going to be easy. There will be times when you lose or fail to achieve your goals but I have learn to love the journey of progress as much as the destination. Failures are only bad if you do not learn from it. However, if you do, the experience from failure becomes invaluable in making you a better person. When I lost, I did not wallow in despair. As Winston Churchill said, “If you are going through hell, keep going.” I let the pain of failure fuel me to do better and got back up as soon as I can. The saying goes that we learn more from our losses than we do in our victories is true. Failures require us to examine our mistakes. When our weaknesses are exposed, it forces us to see where we can improve. When you win, it’s easy to gloss over those mistakes and just bask in glory. Fail, learn, grow and become tougher in every aspect of your life.
 
 My sport of long distance running is a microcosm of my life. My road to the top is not a sprint but a marathon, with the ugly and the good, with failures and small, steady bits of improvements. I do not seek instant gratification but enjoy the process of steady progress. Most importantly, I am very clear that no success ever comes easy. As Jack Ma, the founder of Alibaba and one of the most successful people in the world said, “Never give up. Today is hard, tomorrow will be worse but, the day after tomorrow will be very beautiful.” It is interesting to note that after saying that, Jack Ma also mentioned that “most people die tomorrow evening.” That is where toughness is required. It is not easy to be tough but we can slowly learn to.
-
