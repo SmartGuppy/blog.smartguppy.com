@@ -7,9 +7,8 @@ tags:
   - Life
 author: GUest
 excerpt: >-
-  It is the journey rather than the destination and sadly, it is a path
-  guaranteed fraught with much hardship, sacrifices and failures that many
-  Singaporeans, confined to safe and comfortable lifestyles, choose not to take.
+  As we herald a new year, let us remind ourselves of an important virtue that
+  is often not mentioned...
 share: true
 ---
 ## You need to be tough to succeed!
