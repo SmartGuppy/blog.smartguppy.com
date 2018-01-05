@@ -1,11 +1,12 @@
 ---
-published: false
+published: true
 layout: post
 tags:
   - Character
+  - Virtues
   - Studies
   - Life
-author: GUest
+author: Guest
 excerpt: >-
   As we herald a new year, let us remind ourselves of an important virtue that
   is often not mentioned...
