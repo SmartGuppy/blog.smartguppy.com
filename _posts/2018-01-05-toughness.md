@@ -43,4 +43,4 @@ For sure you will fail sometimes, if not many times. Nobody said it was going to
 
 My sport of long distance running is a microcosm of my life. My road to the top is not a sprint but a marathon, with the ugly and the good, with failures and small, steady bits of improvements. I do not seek instant gratification but enjoy the process of steady progress. Most importantly, I am very clear that no success ever comes easy. As Jack Ma, the founder of Alibaba and one of the most successful people in the world said, “Never give up. Today is hard, tomorrow will be worse but, the day after tomorrow will be very beautiful.” It is interesting to note that after saying that, Jack Ma also mentioned that “most people die tomorrow evening.” That is where toughness is required. It is not easy to be tough but we can slowly learn to.
 
-__ This article is based on a guest contributor's true experiences and sacrifice.
+ _This article is based on a guest contributor's true experiences and sacrifice._
