@@ -6,7 +6,7 @@ tags:
   - Virtues
   - Studies
   - Life
-author: Guest
+author: smartguppy
 excerpt: >-
   As we herald a new year, let us remind ourselves of an important virtue that
   is often not mentioned...
