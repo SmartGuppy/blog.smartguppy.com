@@ -1,11 +1,16 @@
 ---
 published: true
+layout: post
+tags:
+  - sharing
+  - power
+  - educational equality
+  - make a difference
+author: atharvi
+excerpt: 'Every individual with a purpose has the power to make a difference. '
+share: true
 ---
 ## The Power of an Individual
-
-#### by Atharvi Gupta
-
-(edited by Eunice Tan and Jaden Ong)
 
 As Christmas neared last year, Victoria's Secret announced that it would cancel its annual fashion show. Stuart B. Burgdoerfer, executive vice president of Victoria's Secret, declared that the brand would be rethinking its original methods of marketing and would continue to evolve to be more relevant. Many felt skeptical and soon their hypothesis got an answer which revealed the real reason behind the cancellation of the show.
 
@@ -50,6 +55,8 @@ I have recently gotten the privilege of supporting one such cause that was built
 
 
 __________
+
+This article was edited by Eunice Tan and Jaden Ong.
 
 Click on this link to share your study or school notes with students across Singapore: [https://www.smartguppy.com/why-share]()
 
