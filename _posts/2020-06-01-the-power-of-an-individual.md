@@ -13,8 +13,6 @@ excerpt: >-
   volunteers has used the early mid-year school holidays for #SGUnited. 
 share: true
 ---
-## The Power of an Individual
-
 As Christmas neared last year, Victoria's Secret announced that it would cancel its annual fashion show. Stuart B. Burgdoerfer, executive vice president of Victoria's Secret, declared that the brand would be rethinking its original methods of marketing and would continue to evolve to be more relevant. Many felt skeptical and soon their hypothesis got an answer which revealed the real reason behind the cancellation of the show.
 
 As Victoria Secret hired Ali Tate Cutler, a plus-size model and Valentina Sampaio, an openly transgender model, many surmised that the cancellation of the iconic show was their slow transition to be relevant in times when Savage x Fenty by Rihanna is the novel.
