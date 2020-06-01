@@ -10,7 +10,7 @@ author: atharvi
 excerpt: >-
   Every individual with a purpose has the power to make a difference. The
   circuit breaker has come to a close! Read on to find out how one of our newest
-  volunteers has used her early mid-year school holidays for #SGUnited. 
+  volunteers has used the early mid-year school holidays for #SGUnited. 
 share: true
 ---
 ## The Power of an Individual
