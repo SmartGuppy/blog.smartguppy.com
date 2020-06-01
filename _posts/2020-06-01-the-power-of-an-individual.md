@@ -3,7 +3,7 @@ published: true
 ---
 ## The Power of an Individual
 
-### by Atharvi Gupta
+### by Atharvi Gupta
 
 (edited by Eunice Tan and Jaden Ong)
 
@@ -13,7 +13,7 @@ As Victoria Secret hired Ali Tate Cutler, a plus-size model and Valentina Sampai
 
 Savage x Fenty demonstrates fearlessness, confidence, and inclusivity. Rihanna's first-ever show in 2018 featured models who were pregnant females, transgenders, disabled, and women with stretch marks. It almost appears like a list of unconventional models but in actuality, this is the garden variety. Her one perspective reconstructed the entire concept of beauty and ultimately will revolutionize the entire industry.
 
-### **Culture**
+**Culture**
 
 Growing up, my friends and I used to look forward to Victoria Secret’s fashion show, and subsequently, we would save images of their Angels in our phones and sometimes have them as our wallpapers and be in awe of their magnificent beauty. Now that I put it into perspective though, Victoria's Secret did themselves a huge favor by describing their models as angels. Certainly, they were unreal as the models featured fit into a size range that gravitated towards the smaller measurements. Regrettably, it was our misunderstanding when we interpreted them as authentic: their angelic images lacked diversity where we tried to fit ourselves into those limited size ranges.
 
@@ -25,7 +25,7 @@ The public was offered a new notion of beauty; it was embraced with open arms as
 
 Every individual in their capacity can make a change that could start a groundswell at any point in their lives, just like what Rihanna did. Her mission to create an impact on other people’s lives rather than focus on herself as a priority made her brand outshine Victoria's Secret's notion of glamorous, made-up beauty. One could even say Savage x Fenty was born out of purpose.
 
-### **Purpose**
+**Purpose**
 
 Earlier this year I was reading _Grit_ by Angela Duckworth, and her chapter on purpose explains the concept best for this context.
 
