@@ -3,7 +3,7 @@ published: true
 ---
 ## The Power of an Individual
 
-### by Atharvi Gupta
+#### by Atharvi Gupta
 
 (edited by Eunice Tan and Jaden Ong)
 
@@ -42,7 +42,7 @@ Earlier this year I was reading _Grit_ by Angela Duckworth, and her chapter on p
  
 	The first bricklayer has a job. The second has a career. The third has a calling.”
 
- 																				(Grit, p. 149)
+ 																		(Grit, p. 149)
 
 
 
