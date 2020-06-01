@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## The Power of an Individual**
 
