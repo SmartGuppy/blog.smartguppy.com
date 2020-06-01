@@ -1,9 +1,9 @@
 ---
 published: true
 ---
-## The Power of an Individual**
+## The Power of an Individual
 
-#### by Atharvi Gupta
+### by Atharvi Gupta
 
 (edited by Eunice Tan and Jaden Ong)
 
