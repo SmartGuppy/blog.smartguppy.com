@@ -22,9 +22,12 @@ title: Will having a mental disorder affect my job prospects?
 _If you’re in urgent need of help,
 Samaritans of Singapore 1800 221 4444 (Suicide Prevention/Crisis hotline)_
 
+
 Hello! This is the first part of a series of evidence-based mental health articles that’ll cover a broad range of topics: free and affordable mental health resources in Singapore, how we can seek psychiatric help, strategies we can use to improve your wellbeing, and stories of people with mental disorders. The next article will cover more on mental health and on seeking help, so stay tuned!
 
 This article will cover some general questions on mental health, psychiatry, and psychology. If you have any feedback or questions you’d like to see answered in future articles, click [here](https://docs.google.com/forms/d/e/1FAIpQLSfM6J3mMCssGhKq-vq2Yr51T2exbHpz1yNKtmMraX6N8uiAFQ/viewform)!       
+
+![Photo by Emma Simpson on Unsplash]({{site.baseurl}}/_posts/emma-simpson-mNGaaLeWEp0-unsplash.jpg)
 
 ______
 **Will seeking psychiatric help or having a mental illness affect my job prospects? Will I have to declare my seeing a psychiatrist or having a mental disorder when applying for a job?**  
