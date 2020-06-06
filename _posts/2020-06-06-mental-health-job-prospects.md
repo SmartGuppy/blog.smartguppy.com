@@ -14,7 +14,7 @@ excerpt: >-
   Here, OwlCove's writer Jaden has compiled useful information for those
   wondering about mental health and its effects on future careers.  
 share: true
-Title: Will having a mental disorder affect my job prospects?
+title: Will having a mental disorder affect my job prospects?
 ---
 ## Will having a mental disorder affect my job prospects? And other common questions on mental health
 
