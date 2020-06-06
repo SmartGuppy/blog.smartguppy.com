@@ -14,6 +14,7 @@ excerpt: >-
   Here, OwlCove's writer Jaden Ong has compiled useful information for those
   wondering about mental health and future careers.  
 share: true
+Title: Will having a mental disorder affect my job prospects?
 ---
 ## Will having a mental disorder affect my job prospects? And other common questions on mental health
 
