@@ -1,5 +1,19 @@
 ---
 published: false
+layout: post
+tags:
+  - Mental Health
+  - Jobs
+  - Future
+  - Students
+  - Stress
+  - School
+author: Jaden
+excerpt: >-
+  Mental health is a topic that warrants more discussion in mainstream media.
+  Here, OwlCove's writer Jaden has compiled useful information for those
+  wondering about mental health and its effects on future careers.  
+share: true
 ---
 ## Will having a mental disorder affect my job prospects? And other common questions on mental health
 
@@ -112,4 +126,3 @@ _____
 
 ----------------------
 This article was first posted on OwlCove's [website](https://owlcove.sg/article/will-having-a-mental-disorder-affect-my-job-prospects-and-other-common-questions-on-mental-health) on 12 May 2020.
-
