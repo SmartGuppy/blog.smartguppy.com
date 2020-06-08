@@ -1,51 +1,62 @@
 # Authors
 
-billy_rick:
+Billy Rick:
   name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
-  google:
-    plus: BillyRick
+  picture: /images/bio-photo-2.jpg
+  twitter: "@billyrick"
+  links:
+    - title: Twitter
+      url: https://twitter.com/billyrick
+      icon: fab fa-twitter-square
 
-cornelius_fiddlebone:
+Cornelius Fiddlebone:
   name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
+  picture: /images/bio-photo.jpg
+  twitter: corneliusfiddlebone
 
 shen:
   name: Shen Loke
-  email: shen@smartguppy.com
-  bio: ""
-  avatar: bio-photo.jpg
+  picture: /images/author.png
+  twitter: "@SmartGuppy"
+  links:
+    - title: Email
+      url: mailto:shen@smartguppy.com
+      icon: fa fa-envelope
 
 yvonneg:
   name: Yvonne Goh
-  email: yvonnegjy@smartguppy.com
-  bio: ""
-  avatar: bio-photo.jpg
+  picture: /images/author.png
+  twitter:
+  links:
+    - title: Email
+      url: mailto:yvonnegjy@smartguppy.com
+      icon: fab fa-envelope
 
 smartguppy:
   name: Mr Guppy
-  email: support@smartguppy.com
-  bio: "I advocate open education!"
-  avatar: bio-photo.png
-  twitter: 
-  google:
-    plus: 
+  picture: /images/author.png
+  links:
+    - title: Twitter
+      url: https://twitter.com/SmartGuppy
+      icon: fab fa-twitter
+    - title: Facebook
+      url: https://facebook.com/smartguppysg
+      icon: fab fa-facebook
+    - title: Instagram
+      url: https://instagram.com/smartguppy
+      icon: fab fa-instagram
     
 atharvi:
   name: Atharvi Gupta
-  email: 
-  bio: ""
+  picture: 
+  twitter:
   
 Jaden:
   name: Jaden Ong
-  email: onghyjaden@gmail.com
-  bio: "Jaden Ong is a student-writer with interests in student-journalism, mental health, and programming. Feel free to contact him at onghyjaden@gmail.com."
+  picture:
+  twitter:
+  links:
+    - title: Email
+      url: mailto:onghyjaden@gmail.com
+      icon: fa fa-envelope
+  # bio: "Jaden Ong is a student-writer with interests in student-journalism, mental health, and programming. Feel free to contact him at onghyjaden@gmail.com."
