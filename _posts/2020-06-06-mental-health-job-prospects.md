@@ -27,7 +27,7 @@ Hello! This is the first part of a series of evidence-based mental health articl
 
 This article will cover some general questions on mental health, psychiatry, and psychology. If you have any feedback or questions you’d like to see answered in future articles, click [here](https://docs.google.com/forms/d/e/1FAIpQLSfM6J3mMCssGhKq-vq2Yr51T2exbHpz1yNKtmMraX6N8uiAFQ/viewform)!       
 
-![Photo by Emma Simpson on Unsplash](https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3150&q=80)
+![Photo by Emma Simpson on Unsplash](/images/emma-simpson-mNGaaLeWEp0-unsplash.jpg)
 
 ______
 **Will seeking psychiatric help or having a mental illness affect my job prospects? Will I have to declare my seeing a psychiatrist or having a mental disorder when applying for a job?**  

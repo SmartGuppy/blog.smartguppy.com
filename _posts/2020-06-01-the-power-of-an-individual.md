@@ -13,7 +13,7 @@ excerpt: >-
   volunteers has used the early mid-year school holidays for #SGUnited. 
 share: true
 ---
-![Photo by Miguel Bruna on Unsplash](https://images.unsplash.com/photo-1515191107209-c28698631303?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2090&q=80)
+![Photo by Miguel Bruna on Unsplash](/images/miguel-bruna-TzVN0xQhWaQ-unsplash.jpg)
 
 As Christmas neared last year, Victoria's Secret announced that it would cancel its annual fashion show. Stuart B. Burgdoerfer, executive vice president of Victoria's Secret, declared that the brand would be rethinking its original methods of marketing and would continue to evolve to be more relevant. Many felt skeptical and soon their hypothesis got an answer which revealed the real reason behind the cancellation of the show.
 
