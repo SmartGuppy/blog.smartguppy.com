@@ -1,5 +1,19 @@
 ---
 published: false
+layout: post
+tags:
+  - BLM
+  - Protests
+  - George Floyd
+  - Slogans
+  - Racism
+author: Eunice
+excerpt: >-
+  The #BlackLivesMatter movement has taken to the streets. What are the
+  protestors fighting for and how do they articulate their ideas? Here, we
+  explain four striking slogans used in the protests in the US and around the
+  world.  
+share: true
 ---
 ## 4 Riveting Slogans of the BLMM Explained. 
 
@@ -77,5 +91,3 @@ However, many people such as President Obama, Ashton Kutcher and Mark Zuckerberg
 These four slogans are definitely not the full list of protest expressions. Do you know or more or want other slogans to be explained? Please let us know!
 
 Also, which slogan on the above list resonated with you most, and what lessons have you learnt from the BLMM protests in the US and around the world? We’d love to hear from you in the comments below!
-
-
