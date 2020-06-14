@@ -60,3 +60,11 @@ Jaden:
       url: mailto:onghyjaden@gmail.com
       icon: fa fa-envelope
   # bio: "Jaden Ong is a student-writer with interests in student-journalism, mental health, and programming. Feel free to contact him at onghyjaden@gmail.com."
+
+Eunice:
+  name: Eunice Tan
+  links:
+    - title: Email
+      url: mailto:eunicetwh@smartguppy.com
+      icon: fa fa-envelope
+      
