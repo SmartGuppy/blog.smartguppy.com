@@ -14,6 +14,7 @@ excerpt: >-
   explain four striking slogans used in the protests in the US and around the
   world.  
 share: true
+title: 4 Riverting Slogans of the #BlackLivesMatter Protests Explained
 ---
 ## 4 Riveting Slogans of the BLMM Explained. 
 
