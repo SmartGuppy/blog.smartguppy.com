@@ -64,7 +64,7 @@ Before #SayTheirNames and #SayHisName, there was #SayHerName.
 ![]({{site.baseurl}}/images/taylor-simpson-Iwlu68iIqwE-unsplash.jpg)
 ##### Photo by Taylor Simpson on Unsplash
 
-A few months before George Floyd’s death turned the internet dark, the shooting of Breonna Taylor at the hands of the police shook the world in its senselessness. Social media helped publicise the facts of what happened, and the hashtag #SayHerName started trending. 
+A few months before George Floyd’s death turned the internet dark, the shooting of Breonna Taylor at the hands of the police shocked the world in its senselessness. Social media helped publicise the facts of what happened, and the hashtag #SayHerName started trending. 
 
 But did you know, like number one on this list, #SayHerName was a slogan coined earlier in the last decade? In 2015, this hashtag was used to create awareness among the public that Black women and girls are as much victims of police brutality as Black men and boys are. 
 
