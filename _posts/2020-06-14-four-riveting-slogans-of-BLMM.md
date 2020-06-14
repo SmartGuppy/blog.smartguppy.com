@@ -68,7 +68,7 @@ A few months before George Floyd’s death turned the internet dark, the shootin
 
 But did you know, like number one on this list, #SayHerName was a slogan coined earlier in the last decade? In 2015, this hashtag was used to create awareness among the public that Black women and girls are as much victims of police brutality as Black men and boys are. 
 
-Why so specific to gender, you might ask? Well, the African American Policy Forum (which created the hashtag) states that “[i]ncluding Black women and girls in police violence and gender violence discourses sends the powerful message that indeed all Black lives matter” (AAPF, 2015). Some activists are speaking out to reserve this slogan for the specific cause of fighting racial injustice and violence against Black women and girls. 
+Why so specific to gender, you might ask? Well, the African American Policy Forum (which created the [hashtag](https://aapf.org/sayhername/)) states that “[i]ncluding Black women and girls in police violence and gender violence discourses sends the powerful message that indeed all Black lives matter". Some activists are speaking out to reserve this slogan for the specific cause of fighting racial injustice and violence against Black women and girls. 
 
 ![]({{site.baseurl}}/images/Breonna.png)
 
