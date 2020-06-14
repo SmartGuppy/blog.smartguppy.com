@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 tags:
   - BLM
@@ -14,9 +14,8 @@ excerpt: >-
   explain four striking slogans used in the protests in the US and around the
   world.  
 share: true
+title: 4 Riverting Slogans of the
 ---
-## 4 Riveting Slogans of the BLMM Explained. 
-
 
 The Black Lives Matter protests that began at the start of June must have been shocking to students all over Singapore. Here, most of us were just about to start school after the premature June (now May) school holidays, and on the other side of the word, half a day away, crowds thronged the streets in solidarity with fellow citizens. News of people looting stores could only do so much to take away from the purpose of the protestors, so focused they on bringing their message to the world. 
 
