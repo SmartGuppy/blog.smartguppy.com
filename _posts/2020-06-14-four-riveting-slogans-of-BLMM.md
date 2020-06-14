@@ -20,7 +20,7 @@ title: 4 Riveting Slogans of the Black Lives Matter Protests Explained
 The Black Lives Matter protests that began at the start of June must have been shocking to students all over Singapore. Here, most of us were just about to start school after the premature June (now May) school holidays, and on the other side of the word, half a day away, crowds thronged the streets in solidarity with fellow citizens. News of people looting stores could only do so much to take away from the purpose of the protestors, so focused they on bringing their message to the world. 
 
 
-![]({{site.baseurl}}//images/jeppe-monster-rQ8BAG23Fwo-unsplash.jpg)
+![]({{site.baseurl}}/images/jeppe-monster-rQ8BAG23Fwo-unsplash.jpg)
 
 ##### Photo by Jeppe Mønster on Unsplash
 
@@ -90,7 +90,8 @@ However, many people such as President Obama, Ashton Kutcher and Mark Zuckerberg
 These four slogans are definitely not the full list of protest expressions though. Do you know of any more or want other slogans to be explained? Please let us know!
 
 Also, which slogan on the above list resonated with you most, and what lessons have you learnt from the BLMM protests in the US and around the world? We’d love to hear from you in the comments below!
-_________
+
+--------------------------------
 
 Click on this link to share your study or school notes with students across Singapore: [https://www.smartguppy.com/why-share]()
 
