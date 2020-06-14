@@ -23,7 +23,7 @@ The Black Lives Matter protests that began at the start of June must have been s
 
 ![]({{site.baseurl}}//images/jeppe-monster-rQ8BAG23Fwo-unsplash.jpg)
 
-### Photo by Jeppe Mønster on Unsplash
+##### Photo by Jeppe Mønster on Unsplash
 
 The over-arching message is that Black Lives Matter. Black people in America are more likely to lose their lives because they are victims of violence and systemic racism. You can read more about the research supporting that point [here](https://www.goodhousekeeping.com/life/a32745051/what-black-lives-matter-means/). The Black Lives Matter Movement (BLMM) was started a few years ago, but has recently gained momentum due to the reports of three black people being unjustifiably killed just this year alone - first, Ahmaud Arbery in February, then Breonna Taylor in March and finally George Floyd in May.
 
@@ -35,7 +35,7 @@ Before you write more about the BLMM in your essays for English class, or refere
 ![]({{site.baseurl}}/images/clay-banks-Ae2PAufE7bg-unsplash.jpg)
  
 
-### Photo by Clay Banks on Unsplash
+##### Photo by Clay Banks on Unsplash
 
 “I can’t breathe,” is one of the last things George Floyd said as a policeman knelt on his neck. That action effectively cut off Mr. Floyd’s air supply, resulting in his death in police custody. The phrase became the refrain of people all around the world from the US to Syria. 
 
@@ -52,9 +52,9 @@ Protest slogans need to convey important ideas and be memorable, and wordplay is
 
 ![I stand with you]({{site.baseurl}}/images/clay-banks-OZKZxM3tbaA-unsplash.jpg)
 
-### Photo by Clay Banks on Unsplash
+##### Photo by Clay Banks on Unsplash
 
-This slogan helped non-black supporters of the BLMM to recognize they have essential roles in the movement too. It reminded people to be aware of their privilege (of being a majority race, of being well-off, of being in positions of influence and power) and to use that privilege to support oppressed Black people, not bring them down.
+This slogan helped non-black supporters of #BLM to recognize they have essential roles in the movement too. It reminded people to be aware of their privilege (of being a majority race, of being well-off, of being in positions of influence and power) and to use that privilege to support oppressed Black people, not bring them down.
  
 
 ## **3.	Say Her Name.**
@@ -62,7 +62,7 @@ This slogan helped non-black supporters of the BLMM to recognize they have essen
 Before #SayTheirNames and #SayHisName, there was #SayHerName. 
 
 ![]({{site.baseurl}}/images/taylor-simpson-Iwlu68iIqwE-unsplash.jpg)
-### Photo by Taylor Simpson on Unsplash
+##### Photo by Taylor Simpson on Unsplash
 
 A few months before George Floyd’s death turned the internet dark, the shooting of Breonna Taylor at the hands of the police shook the world in its senselessness. Social media helped publicise the facts of what happened, and the hashtag #SayHerName started trending. 
 
@@ -72,7 +72,7 @@ Why so specific to gender, you might ask? Well, the African American Policy Foru
 
 ![]({{site.baseurl}}/images/Breonna.png)
 
-[Illustration](https://www.instagram.com/p/CAJFFOuBvU2/?utm_source=ig_web_copy_link) by @arielsinhaha
+##### [Illustration](https://www.instagram.com/p/CAJFFOuBvU2/?utm_source=ig_web_copy_link) by @arielsinhaha
 
 Just recently, on 12 June 2020, Louisville, the largest city in the US state of Kentucky, passed Breonna’s Law, banning policer officers from barging into homes without first knocking on the doors. May we see many more wins like this in the fight for racial justice. 
 
@@ -84,10 +84,17 @@ Ok, this slogan is somewhat philosophical in nature, so it requires that the log
 First, the #BlackLivesMatter slogan was created 2013. Then, the #AllLivesMatter hashtag was created in criticism to the message conveyed by #BlackLivesMatter. Its proponents were upset because they thought #BlackLivesMatters was supporting the idea that the Black people are more important than other people. 
 
 ![]({{site.baseurl}}/images/noah-eleazar-bKd_gFYXIo4-unsplash.jpg)
-Photo by noah eleazar on Unsplash
+##### Photo by noah eleazar on Unsplash
 
 However, many people such as President Obama, Ashton Kutcher and Mark Zuckerberg have said that the #AllLivesMatter supporters are missing the point. Yes, all human lives are important, but the #BlackLivesMatter movement is a specific fight against the very unique kind of racism Black people in the US are facing now. You can get access to metaphors explaining why BLMM urgently needs the world’s support [here](https://www.parents.com/kids/responsibility/racism/reasons-all-lives-matter-doesnt-work-in-terms-simple-enough-for-a-child/).
  
-These four slogans are definitely not the full list of protest expressions. Do you know or more or want other slogans to be explained? Please let us know!
+These four slogans are definitely not the full list of protest expressions though. Do you know or more or want other slogans to be explained? Please let us know!
 
 Also, which slogan on the above list resonated with you most, and what lessons have you learnt from the BLMM protests in the US and around the world? We’d love to hear from you in the comments below!
+_________
+
+Click on this link to share your study or school notes with students across Singapore: [https://www.smartguppy.com/why-share]()
+
+Click on this link to join the SmartGuppy Telegram channel: [https://t.me/smartguppy]()
+
+Find more study notes and resources on the SmartGuppy website: [https://www.smartguppy.com]()
