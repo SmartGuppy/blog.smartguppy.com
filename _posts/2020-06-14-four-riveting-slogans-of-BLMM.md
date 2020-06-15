@@ -17,7 +17,7 @@ share: true
 title: 4 Riveting Slogans of the Black Lives Matter Protests Explained
 ---
 
-The Black Lives Matter protests that began at the start of June must have been shocking to students all over Singapore. Here, most of us were just about to start school after the premature June (now May) school holidays, and on the other side of the word, half a day away, crowds thronged the streets in solidarity with fellow citizens. News of people looting stores could only do so much to take away from the purpose of the protestors, so focused they on bringing their message to the world. 
+The Black Lives Matter protests that began at the start of June must have been shocking to students all over Singapore. Here, most of us were just about to start school after the premature June (now May) school holidays, and on the other side of the word, half a day away, crowds thronged the streets in solidarity with fellow citizens. News of people looting stores could only do so much to take away from the purpose of the protestors, so focused they were on bringing their message to the world. 
 
 
 ![]({{site.baseurl}}/images/jeppe-monster-rQ8BAG23Fwo-unsplash.jpg)
