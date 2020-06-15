@@ -85,7 +85,7 @@ First, the #BlackLivesMatter slogan was created 2013. Then, the #AllLivesMatter 
 ![]({{site.baseurl}}/images/noah-eleazar-bKd_gFYXIo4-unsplash.jpg)
 ##### Photo by noah eleazar on Unsplash
 
-However, many people such as President Obama, Ashton Kutcher and Mark Zuckerberg have said that the #AllLivesMatter supporters are missing the point. Yes, all human lives are important, but the #BlackLivesMatter movement is a specific fight against the very unique kind of racism Black people in the US are facing now. You can get access to metaphors explaining why BLMM urgently needs the world’s support [here](https://www.parents.com/kids/responsibility/racism/reasons-all-lives-matter-doesnt-work-in-terms-simple-enough-for-a-child/).
+However, many people, including President Obama, Ashton Kutcher and Mark Zuckerberg, have said that the #AllLivesMatter supporters are missing the point. Yes, all human lives are important, but the #BlackLivesMatter movement is a specific fight against the very unique kind of racism Black people in the US are facing now. You can get access to metaphors explaining why BLMM urgently needs the world’s support [here](https://www.parents.com/kids/responsibility/racism/reasons-all-lives-matter-doesnt-work-in-terms-simple-enough-for-a-child/).
  
 These four slogans are definitely not the full list of protest expressions though. Do you know of any more or want other slogans to be explained? Please let us know!
 
