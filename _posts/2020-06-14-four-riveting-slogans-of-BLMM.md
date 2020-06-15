@@ -38,7 +38,7 @@ Before you write more about the BLMM in your essays for English class, or refere
 
 “I can’t breathe,” is one of the last things George Floyd said as a policeman knelt on his neck. That action effectively cut off Mr. Floyd’s air supply, resulting in his death in police custody. The phrase became the refrain of people all around the world from the US to Syria. 
 
-Some lesser well-known facts about this phrase is that it is associated with another black man’s death in 2014. According to Wikipedia, Eric Garner was put into a chokehold by police officers, and repeatedly said “I can’t breathe,” before he became unconscious. The phrase is also part of the title of a book written by Matt Taibbi about Mr. Garner. 
+A lesser-known fact about this phrase is that it is associated with another black man’s death in 2014. According to Wikipedia, Eric Garner was put into a chokehold by police officers, and repeatedly said “I can’t breathe,” before he became unconscious. The phrase is also part of the title of a book written by Matt Taibbi about Mr. Garner. 
 
 “I can’t breathe,” has now taken on stronger symbolic meaning with the death of George Floyd, with some saying it represents systemic racism and oppression of Black US citizens. 
 
