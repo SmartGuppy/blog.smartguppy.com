@@ -73,7 +73,7 @@ Why so specific to gender, you might ask? Well, the African American Policy Foru
 
 ##### [Illustration](https://www.instagram.com/p/CAJFFOuBvU2/?utm_source=ig_web_copy_link) by @arielsinhaha
 
-Just recently, on 12 June 2020, Louisville, the largest city in the US state of Kentucky, passed Breonna’s Law, banning policer officers from barging into homes without first knocking on the doors. May we see many more wins like this in the fight for racial justice. 
+Just recently, on 12 June 2020, Louisville, the largest city in the US state of Kentucky, passed [Breonna’s Law](https://edition.cnn.com/2020/06/11/us/louisville-breonnas-law-no-knock-warrants-ban/index.html), banning policer officers from barging into homes without first knocking on the doors. May we see many more wins like this in the fight for racial justice. 
 
 ## **4.	All lives can’t matter until Black lives do.**
 
