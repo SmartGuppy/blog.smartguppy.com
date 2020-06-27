@@ -58,6 +58,7 @@ Negative thoughts and self-doubt can get in the way of productive thinking and s
 In the 20th century, two psychotherapists, Albert Ellis, PhD and Aaron T. Beck, MD, changed the way we thought about low mood. They said that low moods, depression, and anxiety could be caused simply by irrational thoughts. Bouts of negativity can arise only from a person’s distorted view of themselves — for instance, that they are worthless, a loser, useless, or unhelpable.
 
 ![]({{site.baseurl}}/images/unnamed.jpg)
+
 Beck and Ellis at an APA event.
 
 Today, their brand of psychotherapy, known as the Cognitive Behavioral Therapies (CBTs), is the primary method of treating most mental disorders. But it’s not only depressed and anxious people who experience irrational thinking — everyone does! Much of our self doubt, including feeling like an imposter, arises as a result of irrational perceptions.
