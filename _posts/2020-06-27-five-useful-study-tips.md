@@ -80,3 +80,11 @@ Being an all-rounder can also cause friends and acquaintances to leech onto you 
 ![]({{site.baseurl}}/images/Screenshot 2020-06-23 at 8.06.54 PM.png)
 
 Until the end of July, Coursera is offering [completely free certificates for some courses](https://www.classcentral.com/report/coursera-free-certificate-covid-19/). If you’d like a free Mindshift certificate, simply follow the instructions in the link above. (You’ll have to actually complete the course though!)
+
+--------------------------------
+
+Click on this link to share your study or school notes with students across Singapore: [https://www.smartguppy.com/why-share]()
+
+Click on this link to join the SmartGuppy Telegram channel: [https://t.me/smartguppy]()
+
+Find more study notes and resources on the SmartGuppy website: [https://www.smartguppy.com]()
