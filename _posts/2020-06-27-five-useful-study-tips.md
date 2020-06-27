@@ -25,7 +25,7 @@ Here are five of my favorite study tips from the course and a guide on how to ge
 
     “Motivation equals (Expectancy times Value) over (Impulsiveness times Delay).”
 
-                                                              — Dr Piers Steel, The Procrastination Equation
+                                       — Dr Piers Steel, The Procrastination Equation
 
 The higher your **expectancy** (how you perceive the reward of doing something will be) and **value** (how pleasant you think it will be), and the lower your **impulsiveness** (how likely you are to be distracted) and **delay** (how long until you get a reward), the more motivated you’ll be to get things done.
 
