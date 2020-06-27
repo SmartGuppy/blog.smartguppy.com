@@ -23,7 +23,7 @@ Here are five of my favorite study tips from the course and a guide on how to ge
 
 ![]({{site.baseurl}}/images/howtogetmotivated-1920x1080.png)
 
- “Motivation equals (Expectancy times Value) over (Impulsiveness times Delay).”
+    “Motivation equals (Expectancy times Value) over (Impulsiveness times Delay).”
 
                                                               — Dr Piers Steel, The Procrastination Equation
 
