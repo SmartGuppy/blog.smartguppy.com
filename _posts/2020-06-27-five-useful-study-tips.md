@@ -9,10 +9,10 @@ Here are five of my favorite study tips from the course and a guide on how to ge
 
 ### 1. Curb Your Procrastination.
 
-“Motivation equals (Expectancy times Value) over (Impulsiveness times Delay).”
+“**Motivation** equals (**Expectancy** times **Value**) over (**Impulsiveness** times **Delay**).”
 —Dr Piers Steel, The Procrastination Equation
 
-The higher your expectancy (how you perceive the reward of doing something will be) and value (how pleasant you think it will be), and the lower your impulsiveness (how likely you are to be distracted) and delay (how long until you get a reward), the more motivated you’ll be to get things done.
+The higher your **expectancy** (how you perceive the reward of doing something will be) and **value** (how pleasant you think it will be), and the lower your **impulsiveness** (how likely you are to be distracted) and **delay** (how long until you get a reward), the more motivated you’ll be to get things done.
 
 Simply put, easy, rewarding, and pleasant tasks motivate you to start doing stuff. So, if you want to get motivated, either increase the reward, decrease the distractions, or change your perception of the task at hand. Alex Vermeer has a [very detailed flowchart](https://alexvermeer.com/getmotivated/) inspired by Steel detailing specific actions which you can take to get motivated.
 
@@ -42,7 +42,7 @@ Negative thoughts and self-doubt can get in the way of productive thinking and s
 
 In the 20th century, two psychotherapists, Albert Ellis, PhD and Aaron T. Beck, MD, changed the way we thought about low mood. They said that low moods, depression, and anxiety could be caused simply by irrational thoughts. Bouts of negativity can arise only from a person’s distorted view of themselves — for instance, that they are worthless, a loser, useless, or unhelpable.
 
-
+![]({{site.baseurl}}/images/unnamed.jpg)
 Beck and Ellis at an APA event.
 
 Today, their brand of psychotherapy, known as the Cognitive Behavioral Therapies (CBTs), is the primary method of treating most mental disorders. But it’s not only depressed and anxious people who experience irrational thinking — everyone does! Much of our self doubt, including feeling like an imposter, arises as a result of irrational perceptions.
@@ -63,5 +63,3 @@ Being an all-rounder can also cause friends and acquaintances to leech onto you 
 
 
 Until the end of July, Coursera is offering [completely free certificates for some courses](https://www.classcentral.com/report/coursera-free-certificate-covid-19/). If you’d like a free Mindshift certificate, simply follow the instructions in the link above. (You’ll have to actually complete the course though!)
-
-
