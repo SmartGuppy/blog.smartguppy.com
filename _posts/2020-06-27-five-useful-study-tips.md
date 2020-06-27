@@ -1,7 +1,19 @@
 ---
 published: false
+layout: post
+tags:
+  - study tips
+  - Mindshift
+  - research
+  - motivation
+author: Jaden
+excerpt: >-
+  Finding it difficult to get back to studying after the circuit breaker? Learn
+  about some useful study tips taught in the online course "Mindshift". 
+share: true
+Title: Five Useful Evidence-based Study Tips
+title: Five Useful Evidence-based Study Tips
 ---
-## Five Useful Evidence-based Study Tips
 
 Earlier this May, I took Dr Barbara Oakley’s top MOOC (Massive Open Online Course), [Mindshift](https://www.classcentral.com/course/mindshift-8289). The course contains study tips, career advice, and some inspiration for you to undergo your own mindshift — a shift in mindset that’ll help you in your personal, academic, and professional life.
 
@@ -9,8 +21,11 @@ Here are five of my favorite study tips from the course and a guide on how to ge
 
 ### 1. Curb Your Procrastination.
 
-“**Motivation** equals (**Expectancy** times **Value**) over (**Impulsiveness** times **Delay**).”
-—Dr Piers Steel, The Procrastination Equation
+![]({{site.baseurl}}/images/howtogetmotivated-1920x1080.png)
+
+          “Motivation equals (Expectancy times Value) over (Impulsiveness times Delay).”
+
+                                                              — Dr Piers Steel, The Procrastination Equation
 
 The higher your **expectancy** (how you perceive the reward of doing something will be) and **value** (how pleasant you think it will be), and the lower your **impulsiveness** (how likely you are to be distracted) and **delay** (how long until you get a reward), the more motivated you’ll be to get things done.
 
@@ -61,5 +76,6 @@ Being an all-rounder can also cause friends and acquaintances to leech onto you 
 
 ### Bonus: Get A Free Mindshift Certificate.
 
+![]({{site.baseurl}}/images/Screenshot 2020-06-23 at 8.06.54 PM.png)
 
 Until the end of July, Coursera is offering [completely free certificates for some courses](https://www.classcentral.com/report/coursera-free-certificate-covid-19/). If you’d like a free Mindshift certificate, simply follow the instructions in the link above. (You’ll have to actually complete the course though!)
