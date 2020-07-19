@@ -60,3 +60,9 @@ Regardless of SM Tharman’s choice in the candidacy of PM, Singapore has long b
 5- Encyclopaedia Britannica. (2020, January 01). J.B. Jeyaretnam. Retrieved July 18, 2020, from [https://www.britannica.com/biography/J-B-Jeyaretnam](https://www.britannica.com/biography/J-B-Jeyaretnam)
 
 6- Editor:Lim, F., Editor:Han, J., & Sim, C. (2016, August 31). Bilingual policy. Retrieved July 18, 2020, from [https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-09-01_093402.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-09-01_093402.html)
+
+----------------------------------
+
+Click on this link to share your study or school notes with students across Singapore: https://www.smartguppy.com/why-share
+
+Click on this link to join the SmartGuppy Telegram channel: https://t.me/smartguppy
