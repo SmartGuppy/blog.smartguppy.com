@@ -13,7 +13,7 @@ excerpt: >-
   A SmartGuppy take on the discussion of the race of Singapore's future Prime
   Minister
 share: true
-Title: Minorities in a Multiracial Nation
+title: Minorities in a Multiracial Nation
 ---
 ## “We, the citizens of Singapore,
 
