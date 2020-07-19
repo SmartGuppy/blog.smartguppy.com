@@ -1,8 +1,12 @@
 
 “We, the citizens of Singapore,
+
 pledge ourselves as one united people,
+
 regardless of race, language or religion,
+
 to build a democratic society
+
 based on justice and equality..” 
 
 Like clockwork, every Singaporean student never fails to start off his/her day at school with this pledge at school. Having recited this line multitudinous times conscientiously from the age of 6, I grew up believing that Singapore is built on meritocracy and equality. We even have a designated day - 21st July to highlight the importance of racial harmony and tolerance. How is it then that even in today’s day and age, top leaders of our nation can comment that “Singapore is not ready for a non-Chinese PM” ? 
@@ -32,9 +36,3 @@ Regardless of SM Tharman’s choice in the candidacy of PM, Singapore has long b
 5- Encyclopaedia Britannica. (2020, January 01). J.B. Jeyaretnam. Retrieved July 18, 2020, from https://www.britannica.com/biography/J-B-Jeyaretnam
 
 6- Editor:Lim, F., Editor:Han, J., & Sim, C. (2016, August 31). Bilingual policy. Retrieved July 18, 2020, from https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-09-01_093402.html
-
-
-
-
-
-
