@@ -14,15 +14,17 @@ excerpt: >-
 share: true
 Title: Minorities in a Multiracial Nation
 ---
-“We, the citizens of Singapore,
+                     “We, the citizens of Singapore,
 
-pledge ourselves as one united people,
+                  pledge ourselves as one united people,
 
-regardless of race, language or religion,
+                regardless of race, language or religion,
 
-to build a democratic society
+                      to build a democratic society
 
-based on justice and equality..” 
+                      based on justice and equality..”
+
+
 
 Like clockwork, every Singaporean student never fails to start off his/her day at school with this pledge at school. Having recited this line multitudinous times conscientiously from the age of 6, I grew up believing that Singapore is built on meritocracy and equality. We even have a designated day - 21st July to highlight the importance of racial harmony and tolerance. How is it then that even in today’s day and age, top leaders of our nation can comment that “Singapore is not ready for a non-Chinese PM” ? 
 
@@ -40,16 +42,16 @@ Regardless of SM Tharman’s choice in the candidacy of PM, Singapore has long b
 
 ----------------------
 
-1- Mungcal, A. (2020, July 11). Singapore GE2020: Live results. Retrieved July 18, 2020, from https://www.straitstimes.com/multimedia/graphics/2020/07/singapore-general-election-ge2020-live-results/index.html
+1- Mungcal, A. (2020, July 11). Singapore GE2020: Live results. Retrieved July 18, 2020, from [https://www.straitstimes.com/multimedia/graphics/2020/07/singapore-general-election-ge2020-live-results/index.html](https://www.straitstimes.com/multimedia/graphics/2020/07/singapore-general-election-ge2020-live-results/index.html)
 
-2- Tharman on 'early shortlists' for IMF top job amid Lagarde's departure: NYT. (2019, July 05). Retrieved July 18, 2020, from https://www.channelnewsasia.com/news/singapore/tharman-shanmugaratnam-shortlist-imf-chief-christine-lagarde-11689618
+2- Tharman on 'early shortlists' for IMF top job amid Lagarde's departure: NYT. (2019, July 05). Retrieved July 18, 2020, from [https://www.channelnewsasia.com/news/singapore/tharman-shanmugaratnam-shortlist-imf-chief-christine-lagarde-11689618](https://www.channelnewsasia.com/news/singapore/tharman-shanmugaratnam-shortlist-imf-chief-christine-lagarde-11689618)
 
-3- HistorySG. (2015). Singapore joins the United Nations. Retrieved July 18, 2020, from https://eresources.nlb.gov.sg/history/events/e2486640-da69-49b5-8803-1a07c27184ec
+3- HistorySG. (2015). Singapore joins the United Nations. Retrieved July 18, 2020, from [https://eresources.nlb.gov.sg/history/events/e2486640-da69-49b5-8803-1a07c27184ec](https://eresources.nlb.gov.sg/history/events/e2486640-da69-49b5-8803-1a07c27184ec)
 
-4- Salleh, N. (2017, May 05). New book on Yusof Ishak launched. Retrieved July 18, 2020, from https://www.straitstimes.com/singapore/new-book-on-yusof-ishak-launched
+4- Salleh, N. (2017, May 05). New book on Yusof Ishak launched. Retrieved July 18, 2020, from [https://www.straitstimes.com/singapore/new-book-on-yusof-ishak-launched](https://www.straitstimes.com/singapore/new-book-on-yusof-ishak-launched)
 
-5- Encyclopaedia Britannica. (2020, January 01). J.B. Jeyaretnam. Retrieved July 18, 2020, from https://www.britannica.com/biography/J-B-Jeyaretnam
+5- Encyclopaedia Britannica. (2020, January 01). J.B. Jeyaretnam. Retrieved July 18, 2020, from [https://www.britannica.com/biography/J-B-Jeyaretnam](https://www.britannica.com/biography/J-B-Jeyaretnam)
 
-6- Editor:Lim, F., Editor:Han, J., & Sim, C. (2016, August 31). Bilingual policy. Retrieved July 18, 2020, from https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-09-01_093402.html
+6- Editor:Lim, F., Editor:Han, J., & Sim, C. (2016, August 31). Bilingual policy. Retrieved July 18, 2020, from [https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-09-01_093402.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-09-01_093402.html)
 
 
