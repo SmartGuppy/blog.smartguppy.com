@@ -8,6 +8,7 @@ tags:
   - multi-racial
   - changing mindsets
   - discrimination
+  - nation
 author: smartguppy
 excerpt: >-
   A SmartGuppy take on the discussion of the race of Singapore's future Prime
