@@ -11,7 +11,7 @@ excerpt: >-
   What we can learn from John Lewis, a pioneer in the modern day fight for
   racial justice.  
 share: true
-title: Why Singaporeans need to know who John Lewis was
+title: Why Singaporeans need to know who John Lewis is
 ---
 
 “When you see something that is not right, you must say something. You must do something. Democracy is not a state. It is an act, and each generation must do its part to help build what we called the Beloved Community, a nation and world society at peace with itself.” - John Robert Lewis
