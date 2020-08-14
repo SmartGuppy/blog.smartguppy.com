@@ -1,5 +1,17 @@
 ---
 published: false
+layout: post
+tags:
+  - John Lewis
+  - BLMM
+  - race
+  - equality
+author: Mr Guppy
+excerpt: >-
+  What we can learn from John Lewis, a pioneer in the modern day fight for
+  racial justice.  
+share: true
+title: Why Singaporeans need to know who John Lewis is
 ---
 
 “When you see something that is not right, you must say something. You must do something. Democracy is not a state. It is an act, and each generation must do its part to help build what we called the Beloved Community, a nation and world society at peace with itself.” - John Robert Lewis
@@ -42,5 +54,3 @@ When historians pick up their pens to write the story of the 21st century, let t
 
 ----------------------------
 John Lewis, the civil rights leader and congressman who died on July 17, wrote [this essay](https://www.nytimes.com/2020/07/30/opinion/john-lewis-civil-rights-america.html) shortly before his death.
-
-
